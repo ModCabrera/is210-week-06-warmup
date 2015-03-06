@@ -4,6 +4,6 @@
 
 import task_01.peanut
 
-BUTTER = task_01.peanut.BUTTER
+BUTTER = task_01.peanut.BUTTER >= task_01.peanut.BUTTER
 
 JELLY = BUTTER
