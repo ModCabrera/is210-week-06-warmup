@@ -2,17 +2,6 @@
 # -*- coding: utf-8 -*-
 """Peanut Docstring"""
 
+BUTTER = 'I am truthy' or True
 
-def butter():
-    print 'I am truthy'
-    return True
-
-
-def oil():
-    print 'I am Falsy'
-    return False
-
-
-OIL = oil()
-
-BUTTER = butter()
+OIL =  'I am Falsy' is False

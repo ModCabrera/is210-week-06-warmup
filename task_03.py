@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Import Module and create copy of variable"""
+"""IMPORT MODULE AND CREATE COPY OF VARIABLE"""
 
 import task_01.peanut
 
