@@ -2,6 +2,6 @@
 # -*- coding: utf-8 -*-
 """Peanut Docstring"""
 
-BUTTER = 'I am truthy' or True
+BUTTER = 'I am truthy' and True
 
-OIL = 'I am Falsy' is False
+OIL = 'I am Falsy' and False

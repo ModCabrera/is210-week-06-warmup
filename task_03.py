@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """IMPORT MODULE AND CREATE COPY OF VARIABLE"""
 
-import task_01.peanut
+from task_01.peanut import BUTTER
 
-BUTTER = task_01.peanut.BUTTER >= task_01.peanut.BUTTER
+BUTTER = BUTTER
 
 JELLY = BUTTER
